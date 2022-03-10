@@ -9,7 +9,7 @@ var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 
 //Какой порт будет отслеживать сервер
-server.listen(3000);
+github.com;
 
 //Отслеживание url адрессов
 //request - запрос, respons - ответ
